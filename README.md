@@ -1,6 +1,6 @@
 # Nethack 3.6.1
 
-An unofficial built of nethack 3.6.1 for 64-bit MacOS systems.
+An unofficial built of nethack 3.6.x for 64-bit MacOS systems.
 
 ## Features:
 - Compiled on MacOS Catalina
@@ -10,7 +10,7 @@ An unofficial built of nethack 3.6.1 for 64-bit MacOS systems.
 
 ## Install
 
-Download the nethack_macos_3.6.1-x86_64.dmg and mount the image.
+Download the nethack_macos_3.6.x-x86_64.dmg and mount the image.
 
 Open the virtual drive and drag the *nethack* app to your applications folder.
 
