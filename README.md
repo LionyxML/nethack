@@ -1,4 +1,4 @@
-# Nethack 3.6.1
+# Nethack 3.6.x
 
 An unofficial built of nethack 3.6.x for 64-bit MacOS systems.
 
